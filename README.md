@@ -5,7 +5,6 @@ Instead of entering only static values, now you can apply formulas directly whil
 
 https://github.com/user-attachments/assets/32aff3bb-e513-4c82-9165-bcbdb8da5ad3
 
----
 
 ## ✨ What You Can Do
 ✅ Perform quick arithmetic operations on existing values
@@ -14,7 +13,6 @@ https://github.com/user-attachments/assets/32aff3bb-e513-4c82-9165-bcbdb8da5ad3
 
 ✅ Avoid repetitive manual updates during bulk changes
 
----
 
 ## 🛠️ Usage Examples
 
@@ -27,7 +25,6 @@ https://github.com/user-attachments/assets/32aff3bb-e513-4c82-9165-bcbdb8da5ad3
 | `=%3`         | Take remainder when dividing by 3 | → **1** |
 | `=(current+1000)*1.05` | Custom formula with `current` reference | → **2100** |
 
----
 
 ## 🚀 Getting Started
 
@@ -41,7 +38,6 @@ https://github.com/user-attachments/assets/32aff3bb-e513-4c82-9165-bcbdb8da5ad3
 
 3. Use =your_formula in bulk update — and watch the magic happen 🎉
 
----
 
 ## 🙌 Contribute
 
