@@ -12,6 +12,7 @@ app_license = "mit"
 # include js, css files in header of desk.html
 # app_include_css = "/assets/bulk_edit_formula/css/bulk_edit_formula.css"
 # app_include_js = "/assets/bulk_edit_formula/js/bulk_edit_formula.js"
+app_include_js = ["bulk_edit.bundle.js"]
 
 # include js, css files in header of web template
 # web_include_css = "/assets/bulk_edit_formula/css/bulk_edit_formula.css"
@@ -117,6 +118,10 @@ app_license = "mit"
 # override_doctype_class = {
 # 	"ToDo": "custom_app.overrides.CustomToDo"
 # }
+
+override_doctype_class = {
+    "Bulk Update": "bulk_edit_formula.overrides.bulk_update.CustomBulkUpdate"
+}
 
 # Document Events
 # ---------------
